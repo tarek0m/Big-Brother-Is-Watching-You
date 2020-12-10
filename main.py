@@ -1,5 +1,9 @@
 #! python3
 
+'''
+Let's GIT this code 
+'''
+
 """ imports """
 import cv2
 import time
